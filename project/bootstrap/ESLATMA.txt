@@ -1,0 +1,13 @@
+ESLATMA:
+bootstrap 4.1.3 versiya
+
+<head>
+    <link href="bootstarp/css/style.min.css">
+</head>
+<body>
+
+    <!-- JAVASCRIPT ketma-ketligi judaham muhim -->    
+    <script src="bootstarp/jquery/jquery.min.js"></script>
+    <script src="bootstarp/poperjs/poper.min.js"></script>
+    <script src="bootstarp/js/bootstarp.min.js"></script>
+</body>
